@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C3A0A2A25AC0DF500D6E626 /* itemGet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5C3A0A2925AC0DF500D6E626 /* itemGet.mp3 */; };
 		5C508433258DCDE00056CEBF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C508432258DCDE00056CEBF /* AppDelegate.swift */; };
 		5C508435258DCDE00056CEBF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C508434258DCDE00056CEBF /* SceneDelegate.swift */; };
 		5C508437258DCDE00056CEBF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C508436258DCDE00056CEBF /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C3A0A2925AC0DF500D6E626 /* itemGet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itemGet.mp3; sourceTree = "<group>"; };
 		5C50842F258DCDE00056CEBF /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C508432258DCDE00056CEBF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C508434258DCDE00056CEBF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				5C50844C258DD09E0056CEBF /* GameScene.swift */,
 				5C508438258DCDE00056CEBF /* Main.storyboard */,
 				5C50843B258DCDE10056CEBF /* Assets.xcassets */,
+				5C3A0A2925AC0DF500D6E626 /* itemGet.mp3 */,
 				5C50843D258DCDE10056CEBF /* LaunchScreen.storyboard */,
 				5C508440258DCDE10056CEBF /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C3A0A2A25AC0DF500D6E626 /* itemGet.mp3 in Resources */,
 				5C50843F258DCDE10056CEBF /* LaunchScreen.storyboard in Resources */,
 				5C50843C258DCDE10056CEBF /* Assets.xcassets in Resources */,
 				5C50843A258DCDE00056CEBF /* Main.storyboard in Resources */,
